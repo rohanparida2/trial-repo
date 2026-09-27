@@ -1,2 +1,2 @@
 # trial-repo 
-learning
+learning by doing
